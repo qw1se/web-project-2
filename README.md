@@ -66,6 +66,8 @@ Note: This is a static project — no backend or build step is required.
 ## Design & Inspiration
 
 Design inspired by the Figma community file: https://www.figma.com/community/file/1109463796291846721
+
+
 presentation: https://www.canva.com/design/DAG50vI2FPs/0qSzcAe7qRZCnrneg3YMEQ/edit?utm_content=DAG50vI2FPs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
